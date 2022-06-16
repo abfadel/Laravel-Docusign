@@ -1,6 +1,6 @@
 {
-  "name": "tucker-eric/laravel-docusign",
-  "description": "Laravel 6 Wrapper for Official DocuSign Rest API",
+  "name": "abfadel/laravel-docusign",
+  "description": "Laravel Wrapper for Official DocuSign Rest API",
   "keywords": [
     "laravel",
     "docusign",
